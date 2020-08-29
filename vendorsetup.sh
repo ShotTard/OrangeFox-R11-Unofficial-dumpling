@@ -17,7 +17,7 @@ export OF_SKIP_MULTIUSER_FOLDERS_BACKUP=1
 export FOX_R11=1
 export OF_QUICK_BACKUP_LIST="/data;/system;boot;/persist;"
 export FOX_USE_UNZIP_BINARY=1
+export OF_TARGET_DEVICES="dumpling, cheeseburger"
 
-
-add_lunch_combo omni_cheeseburger_dumpling-eng
-add_lunch_combo omni_cheeseburger_dumpling-userdebug
+add_lunch_combo omni_dumpling-eng
+add_lunch_combo omni_dumpling-userdebug
