@@ -18,6 +18,7 @@ export FOX_R11=1
 export OF_QUICK_BACKUP_LIST="/data;/system;boot;/persist;"
 export FOX_USE_UNZIP_BINARY=1
 export OF_TARGET_DEVICES="dumpling, cheeseburger"
+export OF_USE_TWRP_SAR_DETECT=1
 
 add_lunch_combo omni_dumpling-eng
 add_lunch_combo omni_dumpling-userdebug
